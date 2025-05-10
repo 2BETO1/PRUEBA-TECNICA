@@ -1,2 +1,2 @@
-# PRUEBA-TECNICA
-pasos a seguir para realizar contactos en Odoo
+# PRUEBA-TECNICA pasos para la creación de contactos en odoo.
+Ya que fue una implementacion desde 0 la creacion de la cuenta en Ghithub fue el primer paso para el proyecto, al no contar con cuenta en Odoo se creo la misma siguiendo los pasos que solicita la aplicación , se levanto una base datos solicitada  para poder avanzar a los pasos requeridos de la creacion de contactos: clik en el boton crear, rellenar los campos solicitados nombre, dirección, email, teléfono, etiquetas, etc. Tipo de contacto si es individual o empresa y luego guardar. Se utilizaron recursos oficiales de la plataforma y sitios de odoo para la creacion y luego vinculacion a GitHub, asi como video tutoriales y poder avanzar en lo requeido. 
